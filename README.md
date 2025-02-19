@@ -1,4 +1,4 @@
-![logo](https://github.com/yogendra4176/yogendra4176/blob/main/Yogendra%20Pandey.png)
+![logo](https://github.com/yogendra4176/yogendra4176/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Yogendra Pandey</h1>
 <h3 align="center">A passionate Data Scientist & Machine Learning Enthusiast and frontend developer</h3>
 
